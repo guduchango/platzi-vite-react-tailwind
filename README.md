@@ -51,3 +51,13 @@ npm run build
 * My Order Detail
 
 ![alt text](https://simple-store-vite-react-tailwind.edgardoponce.com/images/store_photos/my_order_detail.png "My Order detail")
+
+
+### Plazti certification 
+
+![alt text](https://simple-store-vite-react-tailwind.edgardoponce.com/images/store_photos/diploma.png "Certification")
+
+#### Download
+
+![alt text](https://simple-store-vite-react-tailwind.edgardoponce.com/images/store_photos/diploma-react-vite-tailwindcss.pdf "Download certificate")
+
