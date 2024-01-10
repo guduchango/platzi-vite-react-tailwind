@@ -57,7 +57,8 @@ npm run build
 
 ![alt text](https://simple-store-vite-react-tailwind.edgardoponce.com/images/store_photos/diploma.png "Certification")
 
-#### Download
+### Download
 
-![alt text](https://simple-store-vite-react-tailwind.edgardoponce.com/images/store_photos/diploma-react-vite-tailwindcss.pdf "Download certificate")
+[Download certificate](https://simple-store-vite-react-tailwind.edgardoponce.com/images/store_photos/diploma-react-vite-tailwindcss.pdf)
+
 
